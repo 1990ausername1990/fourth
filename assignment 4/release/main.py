@@ -3,7 +3,7 @@ Student Number: 4949736
 Name: Salim Dridi
 NetID: sd727
 
-Note: ChatGPT was used as a starting point to implement all functions and was modified to do the tasks successfully using online sources, dev tools, and help rom ChatGPT itself.
+Note: ChatGPT was used for all functions. A combination of StackOverFlow and GitHub was used to attempt to fix the assignment.
 """
 
 #!/usr/bin/env python3
